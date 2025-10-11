@@ -16,6 +16,7 @@ public class FindAlphabetConsonentnotaAlphabet {
             System.out.println("Not an alphabet");
         }
 
-        sc.close(); // good practice to close scanner
+        sc.close(); 
     }
 }
+
